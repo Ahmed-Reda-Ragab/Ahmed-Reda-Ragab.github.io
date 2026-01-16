@@ -31,7 +31,6 @@ Welcome to my professional portfolio! I'm a Senior Backend Engineer specializing
 
 ### 📫 Let's Connect
 
-- **Email:** your.email@example.com
 - **GitHub:** [Ahmed-Reda-Ragab](https://github.com/Ahmed-Reda-Ragab)
 - **LinkedIn:** [ahmed-reda-ragab](https://linkedin.com/in/ahmed-reda-ragab)
 
